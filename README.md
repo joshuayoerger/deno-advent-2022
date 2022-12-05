@@ -14,6 +14,8 @@ Replace **DAY** with the day you want to fetch and **SESSION** with the session 
 deno run --allow-net --allow-read --allow-write fetch_day.ts 3 verylongalphanumericstringhere
 ```
 
+**PLEASE BE MINDFUL** of how often you query the AoC website.
+
 As you work on your solution, you can run it with a similar command,
 
 ```sh
